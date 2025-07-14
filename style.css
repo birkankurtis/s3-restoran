@@ -2,12 +2,14 @@ html {
   color: rgb(8, 8, 8)
 }
 
-/* body elemanının arkaplan rengini #e79947, margin değerini 0 yapın. */
 body {background-color: #e79947;
  margin: 0;}
 
 /* h1 için yazı karakteri büyüklüğünü 60px yapın ve yazıyı ortalayın */
+h1{
+  font-size : 60px;
 
+}
 
 /*
   nav etiketine verdiğin mainMenu classını oluştur ve şunları sağla
@@ -25,6 +27,13 @@ body {background-color: #e79947;
     - satır yüksekliğini normalin 1.5 katı
     - dış boşluğu 0px yapın
 */
+p {
+  font-size : 15px ;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  line-height: 1.5;
+  margin : 0px;
+}
 
 
 /* banner classına sahip elemanların kenarlarını 10px yuvarlatın ve genişliğini 750px yapın */
@@ -37,11 +46,8 @@ body {background-color: #e79947;
 
 
 .container {
-  /*
-    Bu class için alttaki stil kurallarını ayarlayın;
-    - genişliği 750px
-    - margin değeri '60px auto 30px'
-    - arkaplan rengi beyaz
-    - padding değeri 50px olsun
-  */
+  width : 750px;
+  margin : 60px auto 30px;
+  background-color : white;
+  padding : 50px;
 }
