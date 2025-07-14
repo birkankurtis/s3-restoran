@@ -82,12 +82,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 190,
+                      "duration": 78,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:08.625Z",
+                      "startTime": "2025-07-14T22:03:34.039Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -116,12 +116,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 69,
+                      "duration": 20,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:09.251Z",
+                      "startTime": "2025-07-14T22:03:34.416Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -150,12 +150,12 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 18,
+                      "duration": 9,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:09.329Z",
+                      "startTime": "2025-07-14T22:03:34.441Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -184,7 +184,7 @@
                       "workerIndex": 0,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 27,
+                      "duration": 11,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:58:22",
@@ -208,7 +208,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:09.354Z",
+                      "startTime": "2025-07-14T22:03:34.454Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -248,12 +248,12 @@
                       "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 180,
+                      "duration": 97,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:11.709Z",
+                      "startTime": "2025-07-14T22:03:35.936Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -282,7 +282,7 @@
                       "workerIndex": 1,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 26,
+                      "duration": 14,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mnot\u001b[2m.\u001b[22mtoBeNull\u001b[2m()\u001b[22m\n\nReceived: \u001b[31mnull\u001b[39m\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:70:21",
@@ -306,7 +306,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:12.320Z",
+                      "startTime": "2025-07-14T22:03:36.328Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -346,7 +346,7 @@
                       "workerIndex": 2,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 114,
+                      "duration": 80,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m5\u001b[39m\nReceived: \u001b[31m0\u001b[39m\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:75:26",
@@ -370,7 +370,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:14.891Z",
+                      "startTime": "2025-07-14T22:03:37.811Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -410,12 +410,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 110,
+                      "duration": 80,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:17.392Z",
+                      "startTime": "2025-07-14T22:03:39.606Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -444,12 +444,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 70,
+                      "duration": 47,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:17.902Z",
+                      "startTime": "2025-07-14T22:03:39.993Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -478,12 +478,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 20,
+                      "duration": 13,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:17.978Z",
+                      "startTime": "2025-07-14T22:03:40.043Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -512,12 +512,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 86,
+                      "duration": 64,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:18.004Z",
+                      "startTime": "2025-07-14T22:03:40.061Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -546,12 +546,12 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 51,
+                      "duration": 33,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:18.095Z",
+                      "startTime": "2025-07-14T22:03:40.129Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -580,7 +580,7 @@
                       "workerIndex": 3,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 19,
+                      "duration": 10,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:116:30",
@@ -603,7 +603,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:18.151Z",
+                      "startTime": "2025-07-14T22:03:40.167Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -643,12 +643,12 @@
                       "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "passed",
-                      "duration": 145,
+                      "duration": 134,
                       "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:20.274Z",
+                      "startTime": "2025-07-14T22:03:41.578Z",
                       "annotations": [],
                       "attachments": []
                     }
@@ -677,7 +677,7 @@
                       "workerIndex": 4,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 59,
+                      "duration": 48,
                       "error": {
                         "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
                         "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:135:32",
@@ -701,7 +701,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:20.846Z",
+                      "startTime": "2025-07-14T22:03:42.026Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -727,7 +727,7 @@
             },
             {
               "title": "ul stil: margin ve line-height",
-              "ok": false,
+              "ok": true,
               "tags": [],
               "tests": [
                 {
@@ -740,48 +740,18 @@
                     {
                       "workerIndex": 5,
                       "parallelIndex": 0,
-                      "status": "failed",
-                      "duration": 170,
-                      "error": {
-                        "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m",
-                        "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:142:30",
-                        "location": {
-                          "file": "D:\\Githubs\\s3-restoran\\tests\\main.spec.js",
-                          "column": 30,
-                          "line": 142
-                        },
-                        "snippet": "\u001b[0m \u001b[90m 140 |\u001b[39m     \u001b[36mconst\u001b[39m ul \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"ul\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 141 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m ul)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 142 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginLeft)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 143 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginRight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 144 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"24px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 145 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m"
-                      },
-                      "errors": [
-                        {
-                          "location": {
-                            "file": "D:\\Githubs\\s3-restoran\\tests\\main.spec.js",
-                            "column": 30,
-                            "line": 142
-                          },
-                          "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m) // Object.is equality\u001b[22m\n\nExpected: \u001b[32m\"\u001b[7m1\u001b[27m0px\"\u001b[39m\nReceived: \u001b[31m\"0px\"\u001b[39m\n\n\u001b[0m \u001b[90m 140 |\u001b[39m     \u001b[36mconst\u001b[39m ul \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39m$(\u001b[32m\"ul\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 141 |\u001b[39m     \u001b[36mconst\u001b[39m style \u001b[33m=\u001b[39m \u001b[36mawait\u001b[39m page\u001b[33m.\u001b[39mevaluate((el) \u001b[33m=>\u001b[39m getComputedStyle(el)\u001b[33m,\u001b[39m ul)\u001b[33m;\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 142 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginLeft)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m                              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 143 |\u001b[39m     expect(style\u001b[33m.\u001b[39mmarginRight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"10px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 144 |\u001b[39m     expect(style\u001b[33m.\u001b[39mlineHeight)\u001b[33m.\u001b[39mtoBe(\u001b[32m\"24px\"\u001b[39m)\u001b[33m;\u001b[39m\n \u001b[90m 145 |\u001b[39m   })\u001b[33m;\u001b[39m\u001b[0m\n\u001b[2m    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:142:30\u001b[22m"
-                        }
-                      ],
+                      "status": "passed",
+                      "duration": 145,
+                      "errors": [],
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:22.872Z",
+                      "startTime": "2025-07-14T22:03:43.550Z",
                       "annotations": [],
-                      "attachments": [
-                        {
-                          "name": "error-context",
-                          "contentType": "text/markdown",
-                          "path": "D:\\Githubs\\s3-restoran\\.test-results\\tests-main-HTML-ve-CSS-Gör-d1551--stil-margin-ve-line-height\\error-context.md"
-                        }
-                      ],
-                      "errorLocation": {
-                        "file": "D:\\Githubs\\s3-restoran\\tests\\main.spec.js",
-                        "column": 30,
-                        "line": 142
-                      }
+                      "attachments": []
                     }
                   ],
-                  "status": "unexpected"
+                  "status": "expected"
                 }
               ],
               "id": "45e6f71b65db145e0a88-db16ab22dde2dd6c730b",
@@ -802,10 +772,10 @@
                   "projectName": "",
                   "results": [
                     {
-                      "workerIndex": 6,
+                      "workerIndex": 5,
                       "parallelIndex": 0,
                       "status": "failed",
-                      "duration": 88,
+                      "duration": 20,
                       "error": {
                         "message": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)",
                         "stack": "Error: page.evaluate: TypeError: Failed to execute 'getComputedStyle' on 'Window': parameter 1 is not of type 'Element'.\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at eval (eval at evaluate (:291:30), <anonymous>:1:7)\n    at UtilityScript.evaluate (<anonymous>:293:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n    at D:\\Githubs\\s3-restoran\\tests\\main.spec.js:149:30",
@@ -828,7 +798,7 @@
                       "stdout": [],
                       "stderr": [],
                       "retry": 0,
-                      "startTime": "2025-07-14T20:49:25.616Z",
+                      "startTime": "2025-07-14T22:03:44.023Z",
                       "annotations": [],
                       "attachments": [
                         {
@@ -859,11 +829,11 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2025-07-14T20:49:06.603Z",
-    "duration": 20147.047,
-    "expected": 10,
+    "startTime": "2025-07-14T22:03:32.794Z",
+    "duration": 11905.475,
+    "expected": 11,
     "skipped": 0,
-    "unexpected": 7,
+    "unexpected": 6,
     "flaky": 0
   }
 }
